@@ -30,7 +30,7 @@ Bulgarian_to_French = {
 
 French_to_bulgarian = {
     "entrer": "влизам",  #vlizam
-    "service": "влизам",  # obsluzhvane
+    "service": "обслужване",  # obsluzhvane
     "language": "език",    # ezik  
     "ouvrir": "отворен"    # otvoren
 }
