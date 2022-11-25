@@ -1,3 +1,4 @@
+# Code to print the max and the min of a list of numbers
 #  GATHERING USER INPUTS
 a = float(input("enter a value for 'a' here: "))
 b = float(input("enter a value for 'b' here: "))
