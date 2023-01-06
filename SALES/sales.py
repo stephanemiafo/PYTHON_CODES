@@ -23,6 +23,7 @@ order = {
     'fish': 9.99
 }
 mytotal = grocery(order)
+print(mytotal)
 receipt = purchase(myreceipt)
-
+print(receipt)
 

@@ -1,0 +1,11 @@
+INFO 2023-01-05 17:25:53,562 - quadratic_formula(1, 0, -4)
+DEBUG 2023-01-05 17:25:53,562 - # Compute the discriminant.
+DEBUG 2023-01-05 17:25:53,562 - # Compute the 2 roots
+DEBUG 2023-01-05 17:25:53,562 - # Return the roots
+INFO 2023-01-05 17:26:28,665 - quadratic_formula(1, 0, 1)
+DEBUG 2023-01-05 17:26:28,665 - # Compute the discriminant.
+DEBUG 2023-01-05 17:26:28,665 - # Compute the 2 roots
+INFO 2023-01-05 17:27:16,372 - quadratic_formula(0, 0, -4)
+DEBUG 2023-01-05 17:27:16,373 - # Compute the discriminant.
+DEBUG 2023-01-05 17:27:16,373 - # Compute the 2 roots
+INFO 2023-01-05 17:34:33,306 - quadratic_formula(1, 0, -4)
